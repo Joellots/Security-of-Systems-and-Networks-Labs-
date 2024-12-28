@@ -1,8 +1,4 @@
 
-Sure! Here's the README.md file content in markdown format with the user-friendly and creative approach you requested:
-
-markdown
-Копировать код
 # 🔐 Security of Systems and Networks - Labs 🖥️
 
 Welcome to the **Security of Systems and Networks Labs** repository! 🎉 This is your go-to resource for hands-on experiments in **securing systems** and **networks**. Inside, you'll find labs, reports, and source code designed to guide you through key cybersecurity concepts. From cryptographic algorithms to setting up secure VPNs, these labs offer practical skills you'll need to build and defend modern systems. 🛡️
