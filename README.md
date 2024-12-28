@@ -18,7 +18,6 @@ This lab covers the setup of a secure VPN connection using OpenVPN. You’ll con
 How to Navigate This Repository
 Each lab is stored in its own directory for easy navigation. Below is the structure of the repository:
 
-Копировать код
 Security-of-Systems-and-Networks-Labs/
 │
 ├── Lab 1 - Firmware Databases & SHIM/
@@ -33,6 +32,7 @@ Security-of-Systems-and-Networks-Labs/
 │   ├── README.md
 │   ├── Lab_Report_3.pdf
 │
+
 Folder Structure Breakdown:
 README.md: Each lab contains its own README.md file with a detailed explanation of the lab’s objectives, tasks, and key takeaways. These files also provide guidance on how to run and configure the lab.
 Lab_Report_X.pdf: Each lab has an associated PDF report that provides a deeper dive into the lab’s technical steps, findings, and conclusions. You can review the report to understand the detailed methodologies and results from each lab.
@@ -48,12 +48,6 @@ Each lab’s README.md file includes detailed instructions on setting up the req
 
 How to Contribute:
 If you would like to contribute to this repository, you can:
-
-Fork this repository.
-Create a new branch for your changes.
-Make your changes and test them.
-Create a pull request to propose your changes.
-We welcome improvements in lab content, organization, and even additional labs related to systems and network security.
 
 Key Learnings
 The labs in this repository aim to:
