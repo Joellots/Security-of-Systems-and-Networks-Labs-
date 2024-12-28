@@ -33,7 +33,6 @@ To run the labs smoothly, make sure you have the following tools and environment
 - **Docker** (for containerized environments in some labs) 🐳
 - **OpenVPN** (for setting up secure VPNs) 🌐
 
-Each lab has a detailed `README.md` with step-by-step instructions to set up the required environments and install necessary dependencies. 🔧
 
 ---
 
